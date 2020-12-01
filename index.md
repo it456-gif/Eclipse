@@ -6,11 +6,11 @@ Eclipse is a community based server with active members and helpfull staff and m
 [Eclipse](https://discord.gg/uDEAwBQUME)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Applecation
 
-### Jekyll Themes
+1) [staff](https://forms.gle/pjWizo84RoPBvr2L8) Here you can apply for staff and help out the growing community
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/it456-gif/vine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+More soon ;)
 
 ### Support or Contact
 
