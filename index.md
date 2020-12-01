@@ -1,10 +1,9 @@
 ## Welcome to Eclipse
 
-Join us now!! [Eclipse](https://discord.gg/uDEAwBQUME)
+### Info
 
-### Applecations
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Eclipse is a community based server with active members and helpfull staff and many giveaways so join now!
+[Eclipse](https://discord.gg/uDEAwBQUME)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
